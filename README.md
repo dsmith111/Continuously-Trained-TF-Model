@@ -4,11 +4,11 @@ In this project, I aim to create a simple stock-prediction model which will be c
 
 ## Status
 
-[x] Trained
-[x] Containerized through Docker
-[x] Deployed to Heroku
-[x] Makes predictions through API
-[] Automatically trains on new data
+- [x] Trained
+- [x] Containerized through Docker
+- [x] Deployed to Heroku
+- [x] Makes predictions through API
+- [ ] Automatically trains on new data
 
 ## Issues
 
